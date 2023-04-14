@@ -1,0 +1,66 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedtext{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border: 10px solid green;
+    margin: 20px;
+    padding: 30px;
+}
+
+#why{
+    text-align: left;
+    font-weight: 10000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol{
+    text-align: left;
+    color: red;
+}
+li{
+    text-align: left;
+}
+ 
+#Steven{
+    text-decoration: underline;
+}
+
+#Please{
+    color: darkred;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+#Found{
+    color: blue;
+
+}
+#Longevity{
+    color: green;
+    text-decoration: double;
+}
+#Uniqueness{
+    color: green;
+}
+
+#Teaches{
+    color: green;
+}
+
+#Top{
+    color: green;
+    font-size: larger;
+}
